@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Firebase_Database_Save</string>
+
+
+
+    <array name="genres">
+
+    <item> rock </item>
+    <item> sufi </item>
+    <item> pop </item>
+    <item> fock </item>
+
+    </array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</resources>
